@@ -1,12 +1,8 @@
-# Python project title
-A base template project to initialize all python projects
-
-# This project is about ...
+# Sort Media Files
+This script is used to separate a folder filled with different media files into they're retrospective folders
 
 # How to use 
+ 1. Go into sort_media_files.py and change user to your computer user
+ 2. Change target folder to the correct folder. It is setup so that it searches the download folder
 
 ## TODOS: 
- - make sure to activate the virtual environment on local computer before making changes
- - change the title in README.md and change the folder name to the same title
- - pip install necessary modules and then use the commmand `pip freeze > requirements.txt` to create a requirements.txt
- - connect to htttps://github.com/ if you feel inclined
